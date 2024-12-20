@@ -5,6 +5,7 @@ public class Edvenswa{
         System.out.println("Jenkins Learning");
         System.out.println(new Date());
         System.out.println("Hello");
+        System.out.println(new Date());
 
     }
 }
